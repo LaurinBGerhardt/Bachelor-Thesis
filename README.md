@@ -1,11 +1,10 @@
 # Bachelor-Thesis
 ## Fake News Detection and Analysis in German
 
-This Bachelor thesis aims for these two goals: 
-1. Analysis of the Linguistic Makeup of German Fake News
-   Using the Python3 Libraries Pandas and spaCy
+What this thesis aims for: 
+1. Analysis of the Linguistic Makeup of German Fake News (using the Python3 Libraries Pandas and spaCy)
 2. Assessing the Performance of Off-The-Shelf Classification Algorithms Regarding
-   the Differentiation of Fake News and Legitimate News using scikit-learn
+   the Differentiation of Fake News and Legitimate News (using scikit-learn)
 
 The first goal concerns the files crawl_articles.py, get_URLs_GermanFakeNC.py, and (most importantly) spacy_analysis.ipynb.
 The second goal concerns only the file prediciton.ipynb.
